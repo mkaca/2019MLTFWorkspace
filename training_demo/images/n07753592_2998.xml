@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>n07753592_2998.JPEG</filename>
+	<path>C:\Users\dabes\Desktop\2019TFMachineLearning\TensorFlow\workspace\training_demo\images\n07753592_2998.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>383</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>7</ymin>
+			<xmax>486</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>
